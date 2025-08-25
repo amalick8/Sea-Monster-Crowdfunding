@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Click here to watch the walkthrough video on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Click here to watch the walkthrough video on YouTube](https://youtu.be/Ui_S0OXLi9I)
 
 
 ## Notes
