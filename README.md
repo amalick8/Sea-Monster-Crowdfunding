@@ -1,6 +1,7 @@
 # WEB102 Prework - **Sea Monster Crowdfunding**
 
 Submitted by: **M. Ammar Malick**
+👉 [Live Demo](https://amalick8.github.io/web102_prework/)
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
