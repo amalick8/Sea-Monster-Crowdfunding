@@ -1,4 +1,4 @@
-WEB102 PRE WORK **Sea Monster Crowdfunding**
+# **Sea Monster Crowdfunding** CodePath Web102 Prework
 
 Submitted by: **M. Ammar Malick**
 
